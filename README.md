@@ -25,3 +25,12 @@ Centróides de K-Means: [[-1.20496484e+01 1.52678791e+01 -2.41637317e+01 -2.1909
 Número de clusters em Hierarchical: 5
 
 Número de clusters em DBSCAN: 1
+
+## DBSCAN
+![DBSCAN](resultados/DBSCAN%20Clustering.png)
+
+## Hierarchical
+![Hierarchical](resultados/Hierarchical%20Clustering.png)
+
+## KMEANS
+![KMEANS](resultados/K_Means%20Clustering.png)
