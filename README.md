@@ -27,10 +27,10 @@ Número de clusters em Hierarchical: 5
 Número de clusters em DBSCAN: 1
 
 ## DBSCAN
-![DBSCAN](resultados/DBSCAN%20Clustering.png)
+![DBSCAN](Resultados/DBSCAN%20Clustering.png)
 
 ## Hierarchical
-![Hierarchical](resultados/Hierarchical%20Clustering.png)
+![Hierarchical](Resultados/Hierarchical%20Clustering.png)
 
 ## KMEANS
-![KMEANS](resultados/K_Means%20Clustering.png)
+![KMEANS](Resultados/K_Means%20Clustering.png)
